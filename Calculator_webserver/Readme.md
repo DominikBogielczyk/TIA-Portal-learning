@@ -1,1 +1,1 @@
-![Screenshot](Calculator_webserver/screenshot.png)
+![Screenshot](screenshot.png)
